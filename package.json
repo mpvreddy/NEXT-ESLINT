@@ -51,7 +51,7 @@
     "postinstall": "next build"
   },
   "engines": {
-    "node": "8.11.x"
-    "python": ">=2.7.0 <3.0.0"
+    "node": "8.11.x",
+    "python": "3.0"
   }
 }
